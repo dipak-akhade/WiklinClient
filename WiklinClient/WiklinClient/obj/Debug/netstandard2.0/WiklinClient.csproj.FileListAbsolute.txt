@@ -1,0 +1,17 @@
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\bin\Debug\netstandard2.0\WiklinClient.deps.json
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\bin\Debug\netstandard2.0\WiklinClient.dll
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\bin\Debug\netstandard2.0\WiklinClient.pdb
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\Resources\GeneralDevicesStyle.xaml.g.cs
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\Resources\SmallDevicesStyle.xaml.g.cs
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\Views\UserRegistrationView.xaml.g.cs
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\WiklinClient.AssemblyInfoInputs.cache
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\WiklinClient.AssemblyInfo.cs
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\WiklinClient.dll
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\WiklinClient.pdb
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\WiklinClient.csprojAssemblyReference.cache
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Debug\netstandard2.0\XamlC.stamp

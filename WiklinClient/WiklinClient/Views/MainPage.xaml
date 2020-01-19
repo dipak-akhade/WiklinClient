@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:views="clr-namespace:WiklinClient.Views"
+             xmlns:local="clr-namespace:WiklinClient;assembly=WiklinClient"
+            x:Class="WiklinClient.Views.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <!--<Image Source="ssss.jpg"/>-->
+            <Button Text="Place Quick Order" Command="{Binding PlaceQuickOrderCommand}"/>
+            <Button Text="Create Account" Command="{Binding PlaceQuickOrderCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

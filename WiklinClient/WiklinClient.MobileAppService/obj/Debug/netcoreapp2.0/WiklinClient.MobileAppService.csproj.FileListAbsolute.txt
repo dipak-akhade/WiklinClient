@@ -1,0 +1,13 @@
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\bin\Debug\netcoreapp2.0\WiklinClient.MobileAppService.deps.json
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\bin\Debug\netcoreapp2.0\WiklinClient.MobileAppService.runtimeconfig.json
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\bin\Debug\netcoreapp2.0\WiklinClient.MobileAppService.runtimeconfig.dev.json
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\bin\Debug\netcoreapp2.0\WiklinClient.MobileAppService.dll
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\bin\Debug\netcoreapp2.0\WiklinClient.MobileAppService.pdb
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\obj\Debug\netcoreapp2.0\WiklinClient.MobileAppService.csprojAssemblyReference.cache
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\obj\Debug\netcoreapp2.0\WiklinClient.MobileAppService.AssemblyInfoInputs.cache
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\obj\Debug\netcoreapp2.0\WiklinClient.MobileAppService.AssemblyInfo.cs
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\obj\Debug\netcoreapp2.0\WiklinClient.MobileAppService.dll
+c:\users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\obj\Debug\netcoreapp2.0\WiklinClient.MobileAppService.pdb
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.MobileAppService\bin\Debug\netcoreapp2.0\Properties\launchSettings.json

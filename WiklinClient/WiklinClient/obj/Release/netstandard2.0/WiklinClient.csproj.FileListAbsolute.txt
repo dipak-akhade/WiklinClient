@@ -1,0 +1,16 @@
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\bin\Release\netstandard2.0\WiklinClient.deps.json
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\bin\Release\netstandard2.0\WiklinClient.dll
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\bin\Release\netstandard2.0\WiklinClient.pdb
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\Resources\GeneralDevicesStyle.xaml.g.cs
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\Resources\SmallDevicesStyle.xaml.g.cs
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\Views\UserRegistrationView.xaml.g.cs
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\WiklinClient.AssemblyInfoInputs.cache
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\WiklinClient.AssemblyInfo.cs
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\WiklinClient.dll
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient\obj\Release\netstandard2.0\WiklinClient.pdb

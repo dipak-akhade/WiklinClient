@@ -1,0 +1,1 @@
+C:\Users\dipak\Source\Repos\WiklinClient\WiklinClient\WiklinClient.UWP\WiklinClient.UWP.csproj;x86
